@@ -18,3 +18,16 @@ body {
 .bar {
   fill: steelblue;
 }
+
+.trippy {
+  animation: whee 3s infinite;
+  fill: green !important;
+}
+
+@keyframes whee {
+  0% {stroke: red;}
+  25% {stroke: yellow;}
+  50% {stroke: blue;}
+  75% {stroke: green;}
+  100% {stroke: red;}
+}
