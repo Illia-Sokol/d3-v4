@@ -57,3 +57,8 @@ body {
 .map {
   background: #79bcd3;
 }
+
+.route {
+  stroke-width: 2px;
+  stroke: goldenrod;
+}
