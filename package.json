@@ -21,7 +21,7 @@
   "devDependencies": {
     "babel-core": "^6.18.2",
     "babel-eslint": "^6.1.2",
-    "babel-loader": "^6.2.8",
+    "babel-loader": "^9.1.0",
     "babel-plugin-transform-runtime": "^6.15.0",
     "babel-preset-es2017": "^6.16.0",
     "babel-preset-stage-0": "^6.16.0",
@@ -34,7 +34,7 @@
     "eslint-plugin-import": "^1.15.0",
     "eslint-plugin-jsx-a11y": "^2.2.2",
     "eslint-plugin-react": "^6.3.0",
-    "html-webpack-plugin": "^2.24.1",
+    "html-webpack-plugin": "^5.5.0",
     "json-loader": "^0.5.4",
     "mocha": "^3.2.0",
     "mocha-loader": "^1.1.0",
@@ -42,7 +42,7 @@
     "style-loader": "^0.13.1",
     "ts-loader": "^2.0.3",
     "typescript": "^2.2.2",
-    "webpack": "^2.2.0",
+    "webpack": "^5.74.0",
     "webpack-dev-server": "^2.4.2"
   },
   "dependencies": {
